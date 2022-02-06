@@ -11,5 +11,5 @@ This can be made by:
 5. Implement into script
 
 Needed Modules: 
-discord ("pip install discord" in console)
-asyncio ("pip install asyncio" in console)
+1. discord ("pip install discord" in console)
+2. asyncio ("pip install asyncio" in console)
