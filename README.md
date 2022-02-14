@@ -12,3 +12,4 @@ This can be made by:
 Needed Modules: 
 1. discord ("pip install discord" in console)
 2. asyncio ("pip install asyncio" in console)
+3. random ("pip install random" in console)
