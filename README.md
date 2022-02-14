@@ -13,3 +13,11 @@ Needed Modules:
 1. discord ("pip install discord" in console)
 2. asyncio ("pip install asyncio" in console)
 3. random ("pip install random" in console)
+
+
+For running in console:
+1. Save desired release to new folder
+2. Inside folder click on file directory in box and backspace
+3. Type cmd and a console will be opened
+4. install desired modules and type py (file name)
+5. this will run the bot
