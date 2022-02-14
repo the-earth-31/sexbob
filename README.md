@@ -21,3 +21,6 @@ For running in console:
 3. Type cmd and a console will be opened
 4. install desired modules and type py (file name)
 5. this will run the bot
+
+To add sexbob to a desired server you must use the required bot link:
+this is in the format of https://discord.com/api/oauth2/authorize?client_id=(bot id from discord developer portal)&permissions=18496&scope=bot
