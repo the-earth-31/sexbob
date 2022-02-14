@@ -2,7 +2,7 @@
 - bot for the saboingabob server 
 - if you are planning to run this code on your own you must install the needed modules and you must make a discord bot application and be using python 3.9
 
-Application can be made by:
+Discord bot application can be made by:
 1. Going onto the discord developer portal at discord.com/developers
 2. Make a new application with needed details
 3. Enable "Bot" setting
