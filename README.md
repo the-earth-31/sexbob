@@ -9,6 +9,11 @@ Discord bot application can be made by:
 4. Copy "Token"
 5. Implement into script
 
+Tenor API Key:
+1. Go to https://tenor.com/developer/dashboard after making a developer account
+2. Create an application for sexbob
+3. Copy the provided api key and implement into the script
+
 Needed Modules: 
 1. discord ("pip install discord" in console)
 2. asyncio ("pip install asyncio" in console)
@@ -25,5 +30,4 @@ For running in console:
 To add sexbob to a desired server you must use the required bot link. This is in the format of:
 - https://discord.com/api/oauth2/authorize?client_id=(id from discord developer portal)&permissions=18496&scope=bot
 
--$ Update:
-sexbob version 1.5 requires all files to be ran at the same time with "sexbob leaderboard.txt" in the same folder
+-$ Update: sexbob version 1.5 requires all files to be ran at the same time with "sexbob leaderboard.txt" in the same folder
